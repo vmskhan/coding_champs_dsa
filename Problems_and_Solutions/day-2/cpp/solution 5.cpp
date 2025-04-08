@@ -1,20 +1,17 @@
-// Online C++ compiler to run C++ program online
-#include <iostream>
-using namespace std;
-int main() {
-    // Write C++ code here
-    int n=3;
-    for(int i=1;i<=n;i++)
+void nStarTriangle(int n) {
+    // Write your code here.
+    int i=0;
+    int j=0;
+    for(i=1;i<=n;i++)
     {
-		for(int j=1;j<=i;j++)
-			cout<<"*";
+        for(j=1;j<=i;j++)
+            cout<<"*";
         cout<<endl;
     }
-    for(int i=1;i<n;i++)
+    for(i=1;i<n;i++)
     {
-		for(int j=i;j<n;j++)
-			cout<<"*";
+        for(j=i;j<n;j++)
+            cout<<"*";
         cout<<endl;
     }
-    return 0;
 }
