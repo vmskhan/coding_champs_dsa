@@ -7,7 +7,7 @@ Input: arr[] = [4, 1, 3, 9, 7]
 Output: [1, 3, 4, 7, 9]
 ```
 
-- [Practice](https://www.naukri.com/code360/problems/quick-sort_98https://www.geeksforgeeks.org/problems/bubble-sort/1)
+- [Practice](https://www.geeksforgeeks.org/problems/bubble-sort/1)
 
 > Striver sheet => Step 1:Learn important sorting techniques>Lec-2: Sorting-II> Recursive bubble sort
 
