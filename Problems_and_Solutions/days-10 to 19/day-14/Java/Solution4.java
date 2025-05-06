@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 class Solution4 {
     public static int maxDepth(String s) {
         int count = 0;
