@@ -99,6 +99,7 @@ C D E F
 B C D E F
 A B C D E F
 ```
+- **NOTE**:- The practice question is a variation of the pattern shown above.
 - [Practice](https://www.naukri.com/code360/problems/alpha-triangle_6581429?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems)
 - [Problems Article](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/)
 
