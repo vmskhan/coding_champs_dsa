@@ -9,7 +9,7 @@ class Solution6{
                 int bottom = size-i;
 
                 int min = Math.min(Math.min(top, bottom), Math.min(left, right));
-                System.out.print((n-min) + " ");
+                System.out.print((n-min));
             }
             System.out.println();
         }
