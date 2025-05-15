@@ -41,3 +41,6 @@ Explanation: You need to reduce multiple spaces between two words to a single sp
 - [Practice](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 
 > Striver sheet => Step 5: Strings>Lec-1: Basic and easy string problems> Reverse words in a given string / Palindrome Check
+
+> Striver sheet => Step 5: Strings>Lec-2: medium string problems> Reverse Every Word in A String
+
