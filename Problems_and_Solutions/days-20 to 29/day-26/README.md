@@ -48,6 +48,6 @@ Input: nums = [11,13,15,17]
 Output: 11
 Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 ```
-- [Practice](hhttps://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+- [Practice](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 
 > Striver sheet => Step 4: Binary Search >Lec-1: BS on 1D Arrays > Find minimum in Rotated Sorted Array
