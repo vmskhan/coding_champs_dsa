@@ -42,7 +42,7 @@ We return 0 - 15 = -15 as the answer.
 
 - [Practice](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27)
 
-> Daily leetcode problem
+> Daily leetcode problem - 2894. Divisible and Non-divisible Sums Difference
 
 ## Problem 2
 - You are given a stack St. You have to reverse the stack using recursion.
@@ -86,6 +86,6 @@ Example 2:
 Input: matrix = [[1,2,3],[4,5,6]]
 Output: [[1,4],[2,5],[3,6]]
 ```
-- [Practice](hhttps://leetcode.com/problems/transpose-matrix/description/)
+- [Practice](https://leetcode.com/problems/transpose-matrix/description/)
 
-> Leetcode problem
+> Leetcode problem- 867. Transpose Matrix
